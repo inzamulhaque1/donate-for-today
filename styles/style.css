@@ -3,6 +3,8 @@
     padding: 0;
 }
 header{
+    height: 669px;
     width: 1140px;
     margin: 0 auto;
+    background-image: url('');
 }
